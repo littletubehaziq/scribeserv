@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-scribeserv-dev-205926-authRole",
+      "UnauthRoleArn": "arn:aws:iam::475440104438:role/amplify-scribeserv-dev-205926-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::475440104438:role/amplify-scribeserv-dev-205926-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-scribeserv-dev-205926-deployment",
+      "UnauthRoleName": "amplify-scribeserv-dev-205926-unauthRole",
+      "StackName": "amplify-scribeserv-dev-205926",
+      "StackId": "arn:aws:cloudformation:us-east-1:475440104438:stack/amplify-scribeserv-dev-205926/7194cc30-0641-11eb-9bab-12bdd946785e",
+      "AmplifyAppId": "d2wiuodcx8pd2c"
+    },
+    "categories": {
+      "auth": {
+        "scribeserv5b395443": {}
+      }
+    }
+  }
+}
